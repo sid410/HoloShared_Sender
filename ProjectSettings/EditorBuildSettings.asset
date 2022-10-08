@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/SampleResources/Scenes/0-ManagerScene.unity
+    guid: a78b2917821ca424c887eecaf36ca9b4
+  - enabled: 0
+    path: Assets/SampleResources/Scenes/1-Menu.unity
+    guid: 72a81fd0bdedaf0448e6c17d1e8fcb86
+  - enabled: 0
+    path: Assets/SampleResources/Scenes/2-ImageTargets.unity
+    guid: 03ddc4184641b534487cecd6dab620df
+  - enabled: 0
+    path: Assets/SampleResources/Scenes/2-VuMarks.unity
+    guid: d9b53b25a285640cf8ac170a80603e34
+  - enabled: 0
+    path: Assets/SampleResources/Scenes/2-ModelTargets.unity
+    guid: 530386685ba085242832bd5cc78d7222
+  - enabled: 0
+    path: Assets/Scenes/SurgeryDemo.unity
+    guid: 475beb6f1709d8346acb4b0087a7f644
+  - enabled: 0
+    path: Assets/Scenes/VolumeRenderTest.unity
+    guid: 5636884d7eb7d7845991b59b81ea9c28
+  - enabled: 0
+    path: Assets/Scenes/VolumeRenderHolo.unity
+    guid: 1eef1485195f3464390683c46646ab9b
+  - enabled: 0
+    path: Assets/Scenes/ItalyAusiliaTest.unity
+    guid: 2a8e5ad3385cf684bbe9b788d058e094
+  - enabled: 0
+    path: Assets/Scenes/KinectMirrorTest.unity
+    guid: 95de4ffa64afe68419ef57665de0ff82
+  - enabled: 0
+    path: Assets/Scenes/VuforiaBalanceBoardDemo.unity
+    guid: 19b89ddf02b62ae48aef6772dace1992
+  - enabled: 1
+    path: Assets/SharedExperience/Scene/HoloShared_Sender.unity
+    guid: be279b5d62e87dd49a2d03480391ed28
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: ccfcc1c19beeb3e40b6ffecd226da296,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b42fdfb4301af6441ade275a99f57c43,
+      type: 2}
